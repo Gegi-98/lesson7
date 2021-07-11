@@ -1,0 +1,90 @@
+/*Logo*/
+.logo-div {
+	/*margin: 91px 0 0 132px;*/
+	display: inline-block;
+}
+.logo {
+	font-size: 32px;
+	color: #4B647E;
+	margin: 67px 0 0 132px;
+}
+.logo-a {
+	color: #4B647E;
+}
+.logo::before {
+	content: "Web";
+	font-size: 32px;
+	color: #3D37F1;
+	/*margin: 91px 10px 0 132px;*/
+}
+/*navigation*/
+.li-div {
+	display: inline-block;
+}
+.nav {
+	margin:106px 0 0 700px;
+}
+.ul {
+	display: flex;
+	justify-content: space-around;
+}
+.list {
+	margin-right: 18px;
+}
+.li-a {
+	color: #3D37F1;
+}
+/*section1*/
+.container {
+	display: flex;
+	/*justify-content: center;*/
+	/*align-items: top;*/
+}
+/*.left-box {
+	width: 626px;
+	height: 527px;
+}
+.right-box {
+	width: 801px;
+	height: 526.63px;
+}*/
+.h1 {
+	width: 600px;
+	height: 203px;
+	font-size: 78px;
+	color: #534D4D;
+	margin: 285px 0 0 132px;
+}
+.lil-title {
+	width: 602px;
+	height: 103px;
+	font-size: 22px;
+	color: #534D4D;
+	margin: 42px 0 0 132px;
+}
+.radius {
+	width: 264px;
+	height: 77px;
+	background-color: #3D37F1;
+	margin: 84px 0 0 132px;
+	border-radius: 38px;
+	/*position: relative;*/
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.click {
+	/*position: absolute;*/
+	/*margin: 22px 0 0 43px;*/
+	font-size: 23px;
+	color: #fff;
+}
+.wave {
+	width: 30px;
+	height: 31px;
+	margin-right: 10px;
+}
+.sec-img {
+	margin-top: 267px;
+}
